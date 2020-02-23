@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # Afina first test
 import webbrowser
 # import os
